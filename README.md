@@ -1,4 +1,3 @@
-# portfolio
 # Ibz-Tech Portfolio (GitHub Pages)
 
 This repo hosts the **Ibz-Tech** portfolio website.
