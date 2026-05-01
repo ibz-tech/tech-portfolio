@@ -2,7 +2,7 @@
 
 This repo hosts the **Ibz-Tech** portfolio website.
 
-https://ibz-tech.github.io/portfolio/
+https://ibz-tech.github.io/tech-portfolio/
 
 It’s a **static site** (HTML + CSS) published using **GitHub Pages**.  
 Right now it documents completed **EUS work experience at Schonfeld** and will be expanded over time.
